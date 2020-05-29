@@ -1,3 +1,5 @@
+<img src="https://avatars0.githubusercontent.com/u/64897773" width="64px"/>
+
 [Huawei-Research](https://github.com/huawei-research)
 is the place where we keep experimental
 and not-yet-ready-for-production open source products.
