@@ -11,6 +11,7 @@ to the best practices of open source community, including:
   * Static analysis is a must
   * Your README must [look nice](https://www.yegor256.com/2019/04/23/elegant-readme.html)
   * Your membership in huawei-research must be "public" ([edit here](https://github.com/orgs/huawei-research/people))
+  * Your contribution discipline is [exceptional](https://www.yegor256.com/2015/06/08/deadly-sins-software-project.html)
 
 When you are ready to add your project here, just
 [email us](mailto:yegor.bugayenko@huawei.com).
